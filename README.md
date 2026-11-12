@@ -2,7 +2,7 @@
 
 **Worked example:** type 2 diabetes in women, using US national survey data (NAMCS 2018–19, checked against NHANES).
 
-A diagnosis in a health record shows who was tested and charted, not only who is sick. When a group is tested less, or tested with a test that misses them, their records say "healthy" when the truth is "unknown" or "sick". A model trained on those records learns the gap as fact. This repo gives data teams a way to find and correct those labels **before** training.
+A diagnosis in a health record shows who was tested and charted, not only who is sick. When a group is tested less, or tested with a test that misses them, their records say "healthy" when the truth is "unknown" or "sick". A model trained on those records learns the gap as fact. This repo is a datacard that travels with the dataset, like the leaflet inside a medicine box. It tells AI builders, as they work with the data, where records can be trusted, where they can’t, and what to check before release.
 
 ---
 
